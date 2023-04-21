@@ -1,0 +1,3 @@
+List<Integer> list = new ArrayList<>();
+// заполнение списка данными
+list.removeIf(n -> n % 2 == 0); // удаление четных чисел
